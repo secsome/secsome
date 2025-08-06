@@ -3,14 +3,15 @@
 - Email: yuxuanxie@whu.edu.cn
 
 ## Education
-- Wuhan University, Information Security(2021 - now)
+- Wuhan University, Information Security(2021 - 2025, Bachelor Degree)
+- Wuhan University, Electronic and Information Engineering(Cyberspace Security) (2025 - 2027, Master Degree)
 
 ## Skills
 - **Reverse Engineering**
 - **C, C++** mostly, C# sometimes
-- Also uses Python for scripting
+- Also uses Python/lua for scripting
 - Linux basic operations
-- Basic git cooperation skills
+- Git cooperation skills
 
 ## Awards
 - LoongArch Cup AWD Champion (2023.10)
@@ -20,5 +21,6 @@
 - ... and so on
 
 ## Researching on
-- Reverse Engineering Automize
-- Virtualization on Windows, Windows Hypervisor Platform mainly for now
+- Reverse Engineering
+- Virtualization on Windows
+- AOSP
