@@ -8,10 +8,14 @@
 
 ## Skills
 - **Reverse Engineering**
-- **C, C++** mostly, C# sometimes
-- Also uses Python/lua for scripting
+- **C, C++**
+  - Especially experienced in Win32 application development
+- Rust
+- C#
+- Python
 - Linux basic operations
-- Git cooperation skills
+- **Git**
+  - With advanced skills
 
 ## Awards
 - LoongArch Cup AWD Champion (2023.10)
@@ -22,5 +26,8 @@
 
 ## Researching on
 - Reverse Engineering
-- Virtualization on Windows
-- AOSP
+- Software Security
+- Virtualization
+
+## Work Experience
+- Virtualization on Windows(C++), Tencent(Internship), 2025.7 - 2026.1
