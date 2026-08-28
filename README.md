@@ -18,15 +18,15 @@
   - With advanced skills
 
 ## Awards
-- LoongArch Cup AWD Champion (2023.10)
 - QWB2023 Final 23th (2024.01)
 - Greatwall Cup Champion (2024.05) 
 - CISCN2024 National First Prize (2024.07) 
+- Tencent GSS CTF 2026 PC Champion (2026.04)
 - ... and so on
-
+- 
 ## Researching on
 - Reverse Engineering
-- Software Security
+- Software/Game Security (Also AI based security aka AI4SEC)
 - Virtualization
 
 ## Work Experience
